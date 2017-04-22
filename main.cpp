@@ -1,3 +1,5 @@
+// Made by Will Meaton for naming Hackathon projects
+// http://willmeaton.com
 #include <iostream>
 #include <stdlib.h>
 #include "words.h"

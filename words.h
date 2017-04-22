@@ -1,3 +1,5 @@
+// Words list courtesy of Eric D'Addio
+// http://abcz.co.uk
 #pragma once
 #define NUM_NOUNS 412
 #define NUM_ADJS 1333
